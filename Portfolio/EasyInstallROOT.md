@@ -20,7 +20,7 @@ Ref.: [About](https://root.cern/about/)
 
 If you are a windows user and don't have the WSL installed, please follow the Microsoft guide: [link](https://docs.microsoft.com/pt-br/windows/wsl/install)
 
-For many students install ROOT first time is a big bottleneck. For windows users this is worse. For this reason I'm writting this guide.
+For many students install ROOT first time is a big bottleneck. For windows users this is worse. For this reason, I'm writting this guide.
 
 Let's start.
 
